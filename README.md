@@ -1,16 +1,20 @@
 ## Hi there 👋
+I’m Iryna. For me, analytics is not about numbers alone — it’s about asking the right questions and building a story around the answers. 
+With a background in operations, reporting, and performance tracking, I now focus on data analytics to connect numbers with decisions.
 
-<!--
-**tsymbaliuk-iryna/Tsymbaliuk-Iryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- **Languages & Querying**: SQL (JOIN, CTE, window functions), Python (Pandas, NumPy – in progress)
+- **Analytics & BI Tools**: Google Sheets, Looker Studio, Tableau
+- **Databases**: BigQuery, DBeaver, pgAdmin 
+- **Collaboration & Management**: Jira, Notion, CRM systems
+- **Other**: Canva (visuals & presentations), GitHub (portfolio & projects)
 
-Here are some ideas to get you started:
+### 🚀 What I’m up to
+- 🔭 Building portfolio projects with real-world datasets (cohort analysis, marketing metrics, dashboards)
+- 🌱 Expanding skills in SQL, Python, and BI visualization tools
+- 💡 Exploring product and marketing analytics as a bridge between business and data
+- 🤝 Open to collaborations and junior roles in data analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let’s connect
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/iryna-tsymbaliuk-s/) 
